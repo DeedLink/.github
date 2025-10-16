@@ -12,6 +12,7 @@ DeedLink revolutionizes property deed management through blockchain technology, 
 - 📊 Real-time Transaction Tracking
 
 ## System Architecture
+
 ### Microservices
 - **Deed Service**: Core property management
 - **Transaction Service**: Secure transfers
@@ -33,6 +34,7 @@ DeedLink revolutionizes property deed management through blockchain technology, 
 - Transaction Visualizer
 
 ## Team
+
 ### Project Architecture
 - **Dulshan Siriwardhana**
   - System Architecture
@@ -42,12 +44,8 @@ DeedLink revolutionizes property deed management through blockchain technology, 
 - **Dulshan Siriwardhana**
   - Smart Contract Implementation
   - Web3 Integration
-
-- **Dulshan Siriwardhana**
   - Microservices Architecture
   - API Development
-
-- **Dulshan Siriwardhana**
   - User Interface Design
   - Client Applications
 
@@ -62,23 +60,30 @@ Currently in active development with core features implemented and testing ongoi
 ## Project Analytics
 
 ### Repository Activity
-![GitHub Contributors](https://img.shields.io/github/contributors/DeedLink/DeedLink)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/DeedLink/DeedLink)
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/DeedLink/DeedLink)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/DeedLink/DeedLink)
+![GitHub Contributors](https://img.shields.io/github/contributors/DeedLink/DeedLink?style=flat-square)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/DeedLink/DeedLink?style=flat-square)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/DeedLink/DeedLink?style=flat-square)
+![GitHub Issues](https://img.shields.io/github/issues/DeedLink/DeedLink?style=flat-square)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/DeedLink/DeedLink?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/DeedLink/DeedLink?style=flat-square)
+![GitHub Forks](https://img.shields.io/github/forks/DeedLink/DeedLink?style=flat-square)
 
 ### Code Statistics
-![GitHub repo size](https://img.shields.io/github/repo-size/DeedLink/DeedLink)
-![GitHub language count](https://img.shields.io/github/languages/count/DeedLink/DeedLink)
-![GitHub top language](https://img.shields.io/github/languages/top/DeedLink/DeedLink)
+![GitHub repo size](https://img.shields.io/github/repo-size/DeedLink/DeedLink?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/DeedLink/DeedLink?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/DeedLink/DeedLink?style=flat-square)
+![Lines of Code](https://img.shields.io/tokei/lines/github/DeedLink/DeedLink?style=flat-square)
 
-### Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=DeedLink&theme=github)
+### Contribution Activity
+![GitHub Contribution Graph](https://ghchart.rshah.org/DeedLink)
 
 ### Contributors
 <a href="https://github.com/DeedLink/DeedLink/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DeedLink/DeedLink" />
+  <img src="https://contrib.rocks/image?repo=DeedLink/DeedLink" alt="Contributors" />
 </a>
 
-### Repository Stats
-![Repository Statistics](https://repobeats.axiom.co/api/embed/your-repobeats-id.svg "Repobeats analytics image")
+## Contributing
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+## Contact
+**Email**: deedlinkofficial@gmail.com
