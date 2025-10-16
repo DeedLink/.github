@@ -60,9 +60,6 @@ It integrates **smart contracts**, **microservices**, and **decentralized storag
 > Showcase the user experience of each client app here.  
 > Add screenshots or UI mockups below 👇
 
-### 🧑‍💼 Property Owner Portal
-![Owner Portal UI](assets/owner-portal-preview.png)
-
 ### 🛠️ Admin Dashboard
 ![Admin Dashboard UI](assets/37.png)
 ![Admin Dashboard UI](assets/38.png)
