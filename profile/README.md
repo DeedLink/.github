@@ -64,15 +64,68 @@ It integrates **smart contracts**, **microservices**, and **decentralized storag
 ![Owner Portal UI](assets/owner-portal-preview.png)
 
 ### 🛠️ Admin Dashboard
-![Admin Dashboard UI](assets/admin-dashboard-preview.png)
+![Admin Dashboard UI](assets/37.png)
+![Admin Dashboard UI](assets/38.png)
+![Admin Dashboard UI](assets/39.png)
+![Admin Dashboard UI](assets/40.png)
+![Admin Dashboard UI](assets/42.png)
+![Admin Dashboard UI](assets/52.png)
+![Admin Dashboard UI](assets/53.png)
+![Admin Dashboard UI](assets/44.png)
+![Admin Dashboard UI](assets/45.png)
+![Admin Dashboard UI](assets/46.png)
 
 ### 🏛️ Department Interface
-![Department Interface UI](assets/department-interface-preview.png)
 
-### 🌍 Block Visualizer
-![Block Visualizer UI](assets/block-visualizer-preview.png)
+#### Survey Department
+![Survey Department Interface UI](assets/27.png)
+![Survey Department Interface UI](assets/28.png)
+![Survey Department Interface UI](assets/29.png)
+![Survey Department Interface UI](assets/30.png)
+![Survey Department Interface UI](assets/31.png)
 
----
+#### IVSL Department
+![IVSL Department Interface UI](assets/32.png)
+![IVSL Department Interface UI](assets/33.png)
+![IVSL Department Interface UI](assets/34.png)
+
+#### Notary Department
+![Notary Department Interface UI](assets/35.png)
+![Notary Department Interface UI](assets/36.png)
+
+#### General Public
+![General Public Interface UI](assets/5.png)
+![General Public Interface UI](assets/47.png)
+![General Public Interface UI](assets/4.png)
+![General Public Interface UI](assets/2.png)
+![General Public Interface UI](assets/48.png)
+![General Public Interface UI](assets/51.png)
+![General Public Interface UI](assets/50.png)
+![General Public Interface UI](assets/57.png)
+![General Public Interface UI](assets/56.png)
+![General Public Interface UI](assets/6.png)
+![General Public Interface UI](assets/7.png)
+![General Public Interface UI](assets/8.png)
+![General Public Interface UI](assets/9.png)
+![General Public Interface UI](assets/10.png)
+![General Public Interface UI](assets/11.png)
+![General Public Interface UI](assets/12.png)
+
+![General Public Interface UI](assets/14.png)
+![General Public Interface UI](assets/15.png)
+![General Public Interface UI](assets/16.png)
+![General Public Interface UI](assets/17.png)
+![General Public Interface UI](assets/18.png)
+![General Public Interface UI](assets/19.png)
+![General Public Interface UI](assets/20.png)
+![General Public Interface UI](assets/21.png)
+![General Public Interface UI](assets/22.png)
+![General Public Interface UI](assets/23.png)
+![General Public Interface UI](assets/25.png)
+
+#### Email Based Verifications
+![Email](assets/55.png)
+![Email](assets/41.png)
 
 ## 🧩 Repository Structure
 
