@@ -1,11 +1,11 @@
-# 🌐 DeedLink  
-### Blockchain-Powered Ecosystem for Real Estate Transactions  
+# 🌐 DeedLink  
+### Blockchain-Powered Ecosystem for Real Estate Transactions  
 **Tokenization • Deeds • Ownership Verification**
 
 ---
 
 ## 🏠 Overview
-**DeedLink** revolutionizes property deed management through **blockchain technology**, providing a **secure, transparent**, and **efficient** platform for real estate transactions.  
+**DeedLink** revolutionizes property deed management through **blockchain technology**, providing a **secure, transparent**, and **efficient** platform for real estate transactions.  
 It integrates **smart contracts**, **microservices**, and **decentralized storage** to create a **comprehensive digital property ecosystem**.
 
 ---
@@ -57,94 +57,74 @@ It integrates **smart contracts**, **microservices**, and **decentralized storag
 
 ## 🖼️ Application Interfaces
 
-> Showcase the user experience of each client app here.  
+> Showcase the user experience of each client app here.  
 > Add screenshots or UI mockups below 👇
 
 ### 🛠️ Admin Dashboard
-![Admin Dashboard UI](assets/37.png)
-![Admin Dashboard UI](assets/38.png)
-![Admin Dashboard UI](assets/39.png)
-![Admin Dashboard UI](assets/40.png)
-![Admin Dashboard UI](assets/42.png)
-![Admin Dashboard UI](assets/52.png)
-![Admin Dashboard UI](assets/53.png)
-![Admin Dashboard UI](assets/44.png)
-![Admin Dashboard UI](assets/45.png)
-![Admin Dashboard UI](assets/46.png)
+<p align="center">
+    <img src="assets/37.png" width="30%"/> <img src="assets/38.png" width="30%"/> <img src="assets/39.png" width="30%"/><br/>
+    <img src="assets/40.png" width="30%"/> <img src="assets/42.png" width="30%"/> <img src="assets/52.png" width="30%"/><br/>
+    <img src="assets/53.png" width="30%"/> <img src="assets/44.png" width="30%"/> <img src="assets/45.png" width="30%"/><br/>
+    <img src="assets/46.png" width="30%"/>
+</p>
 
 ### 🏛️ Department Interface
 
 #### Survey Department
-![Survey Department Interface UI](assets/27.png)
-![Survey Department Interface UI](assets/28.png)
-![Survey Department Interface UI](assets/29.png)
-![Survey Department Interface UI](assets/30.png)
-![Survey Department Interface UI](assets/31.png)
+<p align="center">
+    <img src="assets/27.png" width="30%"/> <img src="assets/28.png" width="30%"/> <img src="assets/29.png" width="30%"/><br/>
+    <img src="assets/30.png" width="30%"/> <img src="assets/31.png" width="30%"/>
+</p>
 
 #### IVSL Department
-![IVSL Department Interface UI](assets/32.png)
-![IVSL Department Interface UI](assets/33.png)
-![IVSL Department Interface UI](assets/34.png)
+<p align="center">
+    <img src="assets/32.png" width="30%"/> <img src="assets/33.png" width="30%"/> <img src="assets/34.png" width="30%"/>
+</p>
 
 #### Notary Department
-![Notary Department Interface UI](assets/35.png)
-![Notary Department Interface UI](assets/36.png)
+<p align="center">
+    <img src="assets/35.png" width="30%"/> <img src="assets/36.png" width="30%"/>
+</p>
 
 #### General Public
-![General Public Interface UI](assets/5.png)
-![General Public Interface UI](assets/47.png)
-![General Public Interface UI](assets/4.png)
-![General Public Interface UI](assets/2.png)
-![General Public Interface UI](assets/48.png)
-![General Public Interface UI](assets/51.png)
-![General Public Interface UI](assets/50.png)
-![General Public Interface UI](assets/57.png)
-![General Public Interface UI](assets/56.png)
-![General Public Interface UI](assets/6.png)
-![General Public Interface UI](assets/7.png)
-![General Public Interface UI](assets/8.png)
-![General Public Interface UI](assets/9.png)
-![General Public Interface UI](assets/10.png)
-![General Public Interface UI](assets/11.png)
-![General Public Interface UI](assets/12.png)
-
-![General Public Interface UI](assets/14.png)
-![General Public Interface UI](assets/15.png)
-![General Public Interface UI](assets/16.png)
-![General Public Interface UI](assets/17.png)
-![General Public Interface UI](assets/18.png)
-![General Public Interface UI](assets/19.png)
-![General Public Interface UI](assets/20.png)
-![General Public Interface UI](assets/21.png)
-![General Public Interface UI](assets/22.png)
-![General Public Interface UI](assets/23.png)
-![General Public Interface UI](assets/25.png)
+<p align="center"> 
+    <img src="assets/2.png" width="30%"/> <img src="assets/4.png" width="30%"/> <img src="assets/5.png" width="30%"/><br/> 
+    <img src="assets/6.png" width="30%"/> <img src="assets/7.png" width="30%"/> <img src="assets/8.png" width="30%"/><br/> 
+    <img src="assets/9.png" width="30%"/> <img src="assets/10.png" width="30%"/> <img src="assets/11.png" width="30%"/><br/> 
+    <img src="assets/12.png" width="30%"/> <img src="assets/14.png" width="30%"/> <img src="assets/15.png" width="30%"/><br/> 
+    <img src="assets/16.png" width="30%"/> <img src="assets/17.png" width="30%"/> <img src="assets/18.png" width="30%"/><br/> 
+    <img src="assets/19.png" width="30%"/> <img src="assets/20.png" width="30%"/> <img src="assets/21.png" width="30%"/><br/> 
+    <img src="assets/22.png" width="30%"/> <img src="assets/23.png" width="30%"/> <img src="assets/25.png" width="30%"/><br/> 
+    <img src="assets/47.png" width="30%"/> <img src="assets/48.png" width="30%"/> <img src="assets/50.png" width="30%"/><br/> 
+    <img src="assets/51.png" width="30%"/> <img src="assets/56.png" width="30%"/> <img src="assets/57.png" width="30%"/>
+</p>
 
 #### Email Based Verifications
-![Email](assets/55.png)
-![Email](assets/41.png)
+<p align="center">
+    <img src="assets/55.png" width="30%"/> <img src="assets/41.png" width="30%"/>
+</p>
 
 ## 🧩 Repository Structure
 
 ### 🧠 Microservices
-- [`deed-service`](https://github.com/DeedLink/deed-service) – Core property management  
-- [`transaction-service`](https://github.com/DeedLink/transaction-service) – Secure transfers  
-- [`user-service`](https://github.com/DeedLink/user-service) – Identity management  
-- [`survey-plan-service`](https://github.com/DeedLink/survey-plan-service) – Property documentation  
-- [`ipfs-microservice`](https://github.com/DeedLink/ipfs-microservice) – Document storage  
-- [`pinata-service`](https://github.com/DeedLink/pinata-service) – IPFS integration  
-- [`Notification-Service`](https://github.com/DeedLink/Notification-Service) – Real-time notifications  
+- [`deed-service`](https://github.com/DeedLink/deed-service) – Core property management  
+- [`transaction-service`](https://github.com/DeedLink/transaction-service) – Secure transfers  
+- [`user-service`](https://github.com/DeedLink/user-service) – Identity management  
+- [`survey-plan-service`](https://github.com/DeedLink/survey-plan-service) – Property documentation  
+- [`ipfs-microservice`](https://github.com/DeedLink/ipfs-microservice) – Document storage  
+- [`pinata-service`](https://github.com/DeedLink/pinata-service) – IPFS integration  
+- [`Notification-Service`](https://github.com/DeedLink/Notification-Service) – Real-time notifications  
 
 ### 💡 Smart Contracts
-- [`smartcontracts`](https://github.com/DeedLink/smartcontracts) – Property NFT Management  
-- [`smartcontractsv2.0`](https://github.com/DeedLink/smartcontractsv2.0) – Enhanced contract features  
-- [`NFT-FT`](https://github.com/DeedLink/NFT-FT) – Token management  
+- [`smartcontracts`](https://github.com/DeedLink/smartcontracts) – Property NFT Management  
+- [`smartcontractsv2.0`](https://github.com/DeedLink/smartcontractsv2.0) – Enhanced contract features  
+- [`NFT-FT`](https://github.com/DeedLink/NFT-FT) – Token management  
 
 ### 💻 Client Applications
-- [`deedlink-client`](https://github.com/DeedLink/deedlink-client)  
-- [`admin-dashboard`](https://github.com/DeedLink/admin-dashboard)  
-- [`departments-client`](https://github.com/DeedLink/departments-client)  
-- [`block-visualizer`](https://github.com/DeedLink/block-visualizer)  
+- [`deedlink-client`](https://github.com/DeedLink/deedlink-client)  
+- [`admin-dashboard`](https://github.com/DeedLink/admin-dashboard)  
+- [`departments-client`](https://github.com/DeedLink/departments-client)  
+- [`block-visualizer`](https://github.com/DeedLink/block-visualizer)  
 
 ### 🏢 Organization
 - [`DeedLink/.github`](https://github.com/DeedLink/.github) – Organization profile & templates
@@ -154,25 +134,25 @@ It integrates **smart contracts**, **microservices**, and **decentralized storag
 ## 👨‍💻 Team
 
 ### 🧱 Project Architecture and Development
-**Dulshan Siriwardhana**  
-- System Architecture  
-- Smart Contract Development  
-- Smart Contract Implementation  
-- Web3 Integration  
-- Microservices Architecture  
-- API Development  
-- Client Applications  
+**Dulshan Siriwardhana**  
+- System Architecture  
+- Smart Contract Development  
+- Smart Contract Implementation  
+- Web3 Integration  
+- Microservices Architecture  
+- API Development  
+- Client Applications  
 
 ### 🎓 Advisors
-**Dr. Prabath Weerasingha**  
-- Technical Guidance  
-- Research Direction  
+**Dr. Prabath Weerasingha**  
+- Technical Guidance  
+- Research Direction  
 
 ---
 
 ## 🚀 Project Status
-**🟢 Active Development:**  
-Core features are implemented and currently undergoing **integration and system testing**.  
+**🟢 Active Development:**  
+Core features are implemented and currently undergoing **integration and system testing**.  
 DeedLink demonstrates how **blockchain can reshape traditional property management**.
 
 ---
@@ -186,7 +166,7 @@ DeedLink demonstrates how **blockchain can reshape traditional property manageme
 
 
 ## 📬 Contact
-📧 **Email**: [deedlinkofficial@gmail.com](mailto:deedlinkofficial@gmail.com)  
+📧 **Email**: [deedlinkofficial@gmail.com](mailto:deedlinkofficial@gmail.com)  
 🌐 **GitHub Organization**: [github.com/DeedLink](https://github.com/DeedLink)
 
 ---
