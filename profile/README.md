@@ -156,8 +156,6 @@ DeedLink demonstrates how **blockchain can reshape traditional property manageme
 | **Backend** | Node.js, Express, MongoDB, Microservices |
 | **Blockchain** | Solidity, Hardhat, Ethers.js |
 | **Storage** | IPFS, Pinata, AWS S3 |
-| **DevOps** | Docker, PM2, GitHub Actions |
-| **Notifications** | WebSockets, Event Emitters |
 
 ---
 
