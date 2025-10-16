@@ -134,7 +134,7 @@ It integrates **smart contracts**, **microservices**, and **decentralized storag
 ## 👨‍💻 Team
 
 ### 🧱 Project Architecture and Development
-**Dulshan Siriwardhana**  
+**Rasindu Dulshan Siriwardhana**  
 - System Architecture  
 - Smart Contract Development  
 - Smart Contract Implementation  
