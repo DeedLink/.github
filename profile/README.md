@@ -134,10 +134,6 @@ DeedLink demonstrates how **blockchain can reshape traditional property manageme
 ![Repositories](https://img.shields.io/badge/Repositories-15-blue?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/Stack-TypeScript%20|%20JavaScript%20|%20Solidity-informational?style=for-the-badge)
 
-### 🧮 Contribution Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeedLink&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
----
 
 ## 📬 Contact
 📧 **Email**: [deedlinkofficial@gmail.com](mailto:deedlinkofficial@gmail.com)  
