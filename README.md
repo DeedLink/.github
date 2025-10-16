@@ -57,33 +57,40 @@ DeedLink revolutionizes property deed management through blockchain technology, 
 ## Project Status
 Currently in active development with core features implemented and testing ongoing. The system demonstrates the potential to transform traditional property management through blockchain technology.
 
+## Repository Structure
+
+### Microservices
+- **[deed-service](https://github.com/DeedLink/deed-service)** - Core property management
+- **[transaction-service](https://github.com/DeedLink/transaction-service)** - Secure transfers
+- **[user-service](https://github.com/DeedLink/user-service)** - Identity management
+- **[survey-plan-service](https://github.com/DeedLink/survey-plan-service)** - Property documentation
+- **[ipfs-microservice](https://github.com/DeedLink/ipfs-microservice)** - Document storage (AWS S3 Bucket)
+- **[pinata-service](https://github.com/DeedLink/pinata-service)** - IPFS integration
+- **[Notification-Service](https://github.com/DeedLink/Notification-Service)** - Real-time notifications
+
+### Smart Contracts
+- **[smartcontracts](https://github.com/DeedLink/smartcontracts)** - Property NFT Management
+- **[smartcontractsv2.0](https://github.com/DeedLink/smartcontractsv2.0)** - Enhanced contract features
+- **[NFT-FT](https://github.com/DeedLink/NFT-FT)** - Token management
+
+### Client Applications
+- **[deedlink-client](https://github.com/DeedLink/deedlink-client)** - Property Owner Portal
+- **[admin-dashboard](https://github.com/DeedLink/admin-dashboard)** - Administrative Dashboard
+- **[departments-client](https://github.com/DeedLink/departments-client)** - Department Interface
+- **[block-visualizer](https://github.com/DeedLink/block-visualizer)** - Transaction Visualizer
+
+### Organization
+- **[.github](https://github.com/DeedLink/.github)** - Organization profile and templates
+
 ## Project Analytics
 
-### Repository Activity
-![GitHub Contributors](https://img.shields.io/github/contributors/DeedLink/DeedLink?style=flat-square)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/DeedLink/DeedLink?style=flat-square)
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/DeedLink/DeedLink?style=flat-square)
-![GitHub Issues](https://img.shields.io/github/issues/DeedLink/DeedLink?style=flat-square)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/DeedLink/DeedLink?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/DeedLink/DeedLink?style=flat-square)
-![GitHub Forks](https://img.shields.io/github/forks/DeedLink/DeedLink?style=flat-square)
-
-### Code Statistics
-![GitHub repo size](https://img.shields.io/github/repo-size/DeedLink/DeedLink?style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/DeedLink/DeedLink?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/DeedLink/DeedLink?style=flat-square)
-![Lines of Code](https://img.shields.io/tokei/lines/github/DeedLink/DeedLink?style=flat-square)
+### Organization Activity
+[![GitHub Organization](https://img.shields.io/badge/GitHub-DeedLink-181717?style=for-the-badge&logo=github)](https://github.com/DeedLink)
+![Repositories](https://img.shields.io/badge/Repositories-15-blue?style=for-the-badge)
+![Tech Stack](https://img.shields.io/badge/Stack-TypeScript%20|%20JavaScript%20|%20Solidity-informational?style=for-the-badge)
 
 ### Contribution Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/DeedLink)
-
-### Contributors
-<a href="https://github.com/DeedLink/DeedLink/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DeedLink/DeedLink" alt="Contributors" />
-</a>
-
-## Contributing
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ## Contact
 **Email**: deedlinkofficial@gmail.com
