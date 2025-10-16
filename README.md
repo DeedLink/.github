@@ -82,7 +82,3 @@ Currently in active development with core features implemented and testing ongoi
 
 ### Repository Stats
 ![Repository Statistics](https://repobeats.axiom.co/api/embed/your-repobeats-id.svg "Repobeats analytics image")
-
-
-## License
-This project is licensed under the MIT License.
