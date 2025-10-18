@@ -141,7 +141,12 @@ It integrates **smart contracts**, **microservices**, and **decentralized storag
 - Web3 Integration  
 - Microservices Architecture  
 - API Development  
-- Client Applications  
+- Client Applications
+
+**Seran Vishwa Sovis**  
+- Smart Contract Development   
+- Notificarion Service Development  
+- Client Applications 
 
 ### 🎓 Advisors
 **Dr. Prabath Weerasingha**  
