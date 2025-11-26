@@ -59,19 +59,18 @@ It integrates **smart contracts**, **microservices**, and **decentralized storag
 
 #### Home & Authentication
 <p align="center">
-    <img src="assets/general-public/31-owner-blockchain-verification.png" width="30%"/> 
-    <img src="assets/general-public/22-owner-email-verification.png" width="30%"/> 
-    <img src="assets/general-public/27-owner-transfer-popup.png" width="30%"/><br/>
-    <img src="assets/general-public/18-owner-deed-card.png" width="30%"/> 
     <img src="assets/general-public/25-owner-deed-actions.png" width="30%"/> 
-    <img src="assets/general-public/30-owner-deed-metadata.png" width="30%"/><br/>
-    <img src="assets/general-public/29-owner-marketplace-listing.png" width="30%"/> 
+    <img src="assets/general-public/18-owner-deed-card.png" width="30%"/> 
+    <img src="assets/general-public/27-owner-transfer-popup.png" width="30%"/><br/>
     <img src="assets/general-public/19-owner-title-history.png" width="30%"/> 
-    <img src="assets/general-public/28-owner-escrow-popup.png" width="30%"/><br/>
-    <img src="assets/general-public/20-owner-last-will.png" width="30%"/> 
     <img src="assets/general-public/21-owner-rent-management.png" width="30%"/> 
-    <img src="assets/general-public/23-owner-power-of-attorney.png" width="30%"/><br/>
-    <img src="assets/general-public/24-owner-certificate.png" width="30%"/>
+    <img src="assets/general-public/20-owner-last-will.png" width="30%"/><br/>
+    <img src="assets/general-public/22-owner-email-verification.png" width="30%"/> 
+    <img src="assets/general-public/24-owner-certificate.png" width="30%"/> 
+    <img src="assets/general-public/28-owner-escrow-popup.png" width="30%"/><br/>
+    <img src="assets/general-public/29-owner-marketplace-listing.png" width="30%"/> 
+    <img src="assets/general-public/30-owner-deed-metadata.png" width="30%"/> 
+    <img src="assets/general-public/31-owner-blockchain-verification.png" width="30%"/>
 </p>
 
 #### Dashboard & Deed Management
