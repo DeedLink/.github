@@ -231,7 +231,15 @@ It integrates **smart contracts**, **microservices**, and **decentralized storag
 **Seran Vishwa Sovis**  
 - Smart Contract Development  
 - Notification Service Development  
-- Client Applications  
+- Client Applications Features
+
+**Udeshi Imasha**  
+- UI/UX Design  
+- Client Application Features   
+
+**Madhavi Hindagoda**  
+- UI/UX Design    
+- Client Application Features
 
 ### 🎓 Advisors
 **Dr. Prabath Weerasingha**  
