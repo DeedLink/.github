@@ -81,27 +81,27 @@ It integrates **smart contracts**, **microservices**, and **decentralized storag
 #### Marketplace & Trading
 <p align="center">
     <img src="profile/assets/general-public/10-owner-marketplace.png" width="30%"/> 
-    <img src="profile/assets/general-public/13-owner-escrow.png" width="30%"/> 
-    <img src="profile/assets/general-public/27-owner-transfer-popup.png" width="30%"/><br/>
+    <img src="profile/assets/general-public/29-owner-marketplace-listing.png" width="30%"/> 
+    <img src="profile/assets/general-public/13-owner-escrow.png" width="30%"/><br/>
     <img src="profile/assets/general-public/28-owner-escrow-popup.png" width="30%"/> 
-    <img src="profile/assets/general-public/29-owner-marketplace-listing.png" width="30%"/>
+    <img src="profile/assets/general-public/27-owner-transfer-popup.png" width="30%"/>
 </p>
 
 #### Transactions & History
 <p align="center">
     <img src="profile/assets/general-public/12-owner-transactions.png" width="30%"/> 
     <img src="profile/assets/general-public/32-owner-transaction-history.png" width="30%"/> 
+    <img src="profile/assets/general-public/19-owner-title-history.png" width="30%"/><br/>
     <img src="profile/assets/general-public/31-owner-blockchain-verification.png" width="30%"/>
 </p>
 
 #### Advanced Features
 <p align="center">
     <img src="profile/assets/general-public/17-owner-qr-scanner.png" width="30%"/> 
-    <img src="profile/assets/general-public/19-owner-title-history.png" width="30%"/> 
-    <img src="profile/assets/general-public/20-owner-last-will.png" width="30%"/><br/>
-    <img src="profile/assets/general-public/21-owner-rent-management.png" width="30%"/> 
+    <img src="profile/assets/general-public/20-owner-last-will.png" width="30%"/> 
+    <img src="profile/assets/general-public/21-owner-rent-management.png" width="30%"/><br/>
     <img src="profile/assets/general-public/23-owner-power-of-attorney.png" width="30%"/> 
-    <img src="profile/assets/general-public/24-owner-certificate.png" width="30%"/><br/>
+    <img src="profile/assets/general-public/24-owner-certificate.png" width="30%"/> 
     <img src="profile/assets/general-public/33-owner-wallet-integration.png" width="30%"/>
 </p>
 
