@@ -61,7 +61,8 @@ It integrates **smart contracts**, **microservices**, and **decentralized storag
 <p align="center">
     <img src="profile/assets/general-public/01-owner-homepage.png" width="30%"/> 
     <img src="profile/assets/general-public/02-owner-login.png" width="30%"/> 
-    <img src="profile/assets/general-public/03-owner-registration.png" width="30%"/>
+    <img src="profile/assets/general-public/03-owner-registration.png" width="30%"/><br/>
+    <img src="profile/assets/general-public/22-owner-email-verification.png" width="30%"/>
 </p>
 
 #### Dashboard & Deed Management
@@ -95,11 +96,12 @@ It integrates **smart contracts**, **microservices**, and **decentralized storag
 
 #### Advanced Features
 <p align="center">
+    <img src="profile/assets/general-public/17-owner-qr-scanner.png" width="30%"/> 
     <img src="profile/assets/general-public/19-owner-title-history.png" width="30%"/> 
-    <img src="profile/assets/general-public/20-owner-last-will.png" width="30%"/> 
-    <img src="profile/assets/general-public/21-owner-rent-management.png" width="30%"/><br/>
+    <img src="profile/assets/general-public/20-owner-last-will.png" width="30%"/><br/>
+    <img src="profile/assets/general-public/21-owner-rent-management.png" width="30%"/> 
     <img src="profile/assets/general-public/23-owner-power-of-attorney.png" width="30%"/> 
-    <img src="profile/assets/general-public/24-owner-certificate.png" width="30%"/> 
+    <img src="profile/assets/general-public/24-owner-certificate.png" width="30%"/><br/>
     <img src="profile/assets/general-public/33-owner-wallet-integration.png" width="30%"/>
 </p>
 
@@ -107,8 +109,7 @@ It integrates **smart contracts**, **microservices**, and **decentralized storag
 <p align="center">
     <img src="profile/assets/general-public/14-owner-profile.png" width="30%"/> 
     <img src="profile/assets/general-public/15-owner-settings.png" width="30%"/> 
-    <img src="profile/assets/general-public/16-owner-notifications.png" width="30%"/><br/>
-    <img src="profile/assets/general-public/22-owner-email-verification.png" width="30%"/>
+    <img src="profile/assets/general-public/16-owner-notifications.png" width="30%"/>
 </p>
 
 ---
