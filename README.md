@@ -252,6 +252,11 @@ DeedLink demonstrates how **blockchain can reshape traditional property manageme
 
 ---
 
+## 📄 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ## 🧠 Tech Stack
 | Category | Technologies |
 |-----------|---------------|
